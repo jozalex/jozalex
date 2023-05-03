@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jozalex
 - 👀 I’m interested in Movies !
-- 🌱 I’m currently working as Technology Analyst
+- 🌱 I’m currently working as Technology Lead
 - 💞️ I’m looking to collaborate on Data stuff !
 - 📫 How to reach me axtheanalyst@gmail.com
 
